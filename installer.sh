@@ -1,9 +1,15 @@
-echo " DOWNLOAD AND INSTALL multi-stalkerpro "
+#!/bin/bash
+####
+#wget -q "--no-check-certificate" https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/installer.sh -O - | /bin/sh
+
+##########################################
+echo " DOWNLOAD AND INSTALL 
+multi-stalkerpro "
 versions="1.0"
 TMPDIR='/tmp'
 PLUGINPATH='/usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro'
 SETTINGS='/etc/enigma2/settings'
-URL='https://dreambox4u.com/emilnabil237/plugins/MultiStalkerPro'
+URL='https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main'
 PYTHON_VERSION=$(python -c"import platform; print(platform.python_version())")
 if [ -f /etc/apt/apt.conf ] ; then
 STATUS='/var/lib/dpkg/status'
@@ -102,7 +108,7 @@ sleep 1;
 if grep -qs -i 'mips' cat $CHECK ; then
 echo "[ Your device is MIPS ]"
 if [ "$PYTHON" = "PY2" ]; then
-wget -q  "--no-check-certificate" https://dreambox4u.com/emilnabil237/plugins/MultiStalkerPro/multi-stalkerpro-py2.7_mips32el.tar.gz -O /tmp/multi-stalkerpro-py2.7_mips32el.tar.gz
+wget -q  "--no-check-certificate" https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py2.7_mips32el.tar.gz -O /tmp/multi-stalkerpro-py2.7_mips32el.tar.gz
 tar -xzf /tmp/multi-stalkerpro-py2.7_mips32el.tar.gz -C /
 sleep 2;
 rm -f /tmp/multi-stalkerpro-py2.7_mips32el.tar.gz
@@ -115,19 +121,19 @@ fi
 elif grep -qs -i 'armv7l' cat $CHECK ; then
 echo "[ Your device is armv7l ]"
 if [ "$PYTHONLASTV" = "PY3" ]; then
-wget -q  "--no-check-certificate" https://dreambox4u.com/emilnabil237/plugins/MultiStalkerPro/multi-stalkerpro-py3.11_arm.tar.gz -O /tmp/multi-stalkerpro-py3.11_arm.tar.gz
+wget -q  "--no-check-certificate" https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.11_arm.tar.gz -O /tmp/multi-stalkerpro-py3.11_arm.tar.gz
 tar -xzf /tmp/multi-stalkerpro-py3.11_arm.tar.gz -C /
 sleep 2;
 rm -f /tmp/multi-stalkerpro-py3.11_arm.tar.gz
 
 elif [ "$PYTHONLASTER" = "PY3" ]; then
-wget -q  "--no-check-certificate" https://dreambox4u.com/emilnabil237/plugins/MultiStalkerPro/multi-stalkerpro-py3.12_arm.ipk -O /tmp/multi-stalkerpro-py3.12_arm.ipk
+wget -q  "--no-check-certificate" https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.12_arm.ipk -O /tmp/multi-stalkerpro-py3.12_arm.ipk
 opkg install /tmp/multi-stalkerpro-py3.12_arm.ipk
 sleep 2;
 rm -f /tmp/multi-stalkerpro-py3.12_arm.ipk
 
 elif [ "$PYTHON" = "PY2" ]; then
-wget -q  "--no-check-certificate" https://dreambox4u.com/emilnabil237/plugins/MultiStalkerPro/multi-stalkerpro-py2.7_arm.tar.gz -O /tmp/multi-stalkerpro-py2.7_arm.tar.gz
+wget -q  "--no-check-certificate" https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py2.7_arm.tar.gz -O /tmp/multi-stalkerpro-py2.7_arm.tar.gz
 tar -xzf /tmp/multi-stalkerpro-py2.7_arm.tar.gz -C /
 sleep 2;
 rm -f /tmp/multi-stalkerpro-py2.7_arm.tar.gz
@@ -151,6 +157,8 @@ echo "***********************************************************************"
 echo "restarting stb"
 reboot
 exit 0
+
+
 
 
 
