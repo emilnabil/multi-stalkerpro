@@ -1,0 +1,63 @@
+[
+    {
+        "tmdb_key": ""
+    },
+    {
+        "subdl_key": ""
+    },
+    {
+        "host": "http://xxxx:80",
+        "mac": "00:00:00:00:00:00",
+        "type": 1
+    },
+    {
+        "host": "http://xxxx:80",
+        "mac": "00:00:00:00:00:00",
+        "type": 1
+    },
+    {
+        "host": "http://xxxx:80",
+        "mac": "00:00:00:00:00:00",
+        "type": 1
+    },
+    {
+        "host": "http://xxxx:80",
+        "mac": "00:00:00:00:00:00",
+        "type": 1
+    },
+    {
+        "host": "http://xxxx:80",
+        "mac": "00:00:00:00:00:00",
+        "type": 1
+    },
+    {
+        "host": "http://xxxx:80",
+        "username": "xxxx",
+        "password": "xxxx",
+        "type": 2
+    },
+    {
+        "host": "http://xxxxx:80",
+        "username": "xxxx",
+        "password": "xxxx",
+        "type": 2
+    },
+    {
+        "host": "http://xxxxxx",
+        "username": "xxxx",
+        "password": "xxx",
+        "type": 2
+    },
+    {
+        "host": "http://xxxxxx",
+        "username": "xxxx",
+        "password": "xxx",
+        "type": 2
+    },
+    {
+        "host": "http://xxxxxx",
+        "username": "xxxx",
+        "password": "xxx",
+        "type": 2
+    }
+]
