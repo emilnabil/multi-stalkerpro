@@ -6,58 +6,323 @@
         "subdl_key": ""
     },
     {
-        "host": "http://xxxx:80",
-        "mac": "00:00:00:00:00:00",
+        "host": "http://zenlink.link",
+        "mac": "00:1a:79:ba:92:3c",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://zenlink.link",
+        "mac": "00:1a:79:b3:25:b5",
         "type": 1
     },
     {
-        "host": "http://xxxx:80",
-        "mac": "00:00:00:00:00:00",
+        "host": "http://diyarbekir21.com:8080",
+        "mac": "00:1a:79:b4:f3:ed",
         "type": 1
     },
     {
-        "host": "http://xxxx:80",
-        "mac": "00:00:00:00:00:00",
-        "type": 1
+        "host": "http://51.79.39.236:80",
+        "username": "dianegialdi",
+        "password": "981193834",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1663182005,
+        "end_date": 1719802800,
+        "max_connections": 1
     },
     {
-        "host": "http://xxxx:80",
-        "mac": "00:00:00:00:00:00",
-        "type": 1
+        "host": "http://51.79.39.236:80",
+        "username": "bvkg1xiw",
+        "password": "cuhytiiz",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1650809907,
+        "end_date": 1721769598,
+        "max_connections": 100
     },
     {
-        "host": "http://xxxx:80",
-        "mac": "00:00:00:00:00:00",
-        "type": 1
+        "host": "http://51.79.39.236:80",
+        "username": "31436871",
+        "password": "34213154",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1711752567,
+        "end_date": 1719762925,
+        "max_connections": 20
     },
     {
-        "host": "http://xxxx:80",
-        "username": "xxxx",
-        "password": "xxxx",
+        "host": "http://1288848696303886.napgoto413.xyz",
+        "username": "hu1014868",
+        "password": "RXSCRxk7ETMC",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1697264157,
+        "end_date": 1729263325,
+        "max_connections": 30
+    },
+    {
+        "host": "http://1288848696303886.napgoto413.xyz",
+        "username": "vi311957",
+        "password": "4jNBTGuQeS",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1710138613,
+        "end_date": 1741678098,
+        "max_connections": 30
+    },
+    {
+        "host": "http://1288848696303886.napgoto413.xyz",
+        "username": "UGPFMWWBXK",
+        "password": "3738394041",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1688420304,
+        "end_date": 1720197558,
+        "max_connections": 30
+    },
+    {
+        "host": "http://1288848696303886.napgoto413.xyz",
+        "username": "javier0107",
+        "password": "Aftawftpa122",
         "type": 2
     },
     {
-        "host": "http://xxxxx:80",
-        "username": "xxxx",
-        "password": "xxxx",
+        "host": "http://1288848696303886.napgoto413.xyz",
+        "username": "5YAMMEG721",
+        "password": "ptn9AVMFNK9U",
         "type": 2
     },
     {
-        "host": "http://xxxxxx",
-        "username": "xxxx",
-        "password": "xxx",
-        "type": 2
+        "host": "http://bestbox.vip:8080",
+        "username": "alicolak",
+        "password": "24062020",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1593005115,
+        "end_date": 1719337680,
+        "max_connections": 100
     },
     {
-        "host": "http://xxxxxx",
-        "username": "xxxx",
-        "password": "xxx",
-        "type": 2
+        "host": "http://ftflivetv.xyz:83",
+        "username": "ap2125",
+        "password": "2538170469",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1677263400,
+        "end_date": 1719254228,
+        "max_connections": 30
     },
     {
-        "host": "http://xxxxxx",
-        "username": "xxxx",
-        "password": "xxx",
-        "type": 2
+        "host": "http://ftflivetv.xyz:83",
+        "username": "Tonyahuff",
+        "password": "5380194267",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1664490300,
+        "end_date": 1722225600,
+        "max_connections": 30
+    },
+    {
+        "host": "http://ftflivetv.xyz:83",
+        "username": "8432298854",
+        "password": "8973154260",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1695602520,
+        "end_date": 1719276615,
+        "max_connections": 30
+    },
+    {
+        "host": "http://ftflivetv.xyz:83",
+        "username": "Gigi123",
+        "password": "3487015962",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1621024579,
+        "end_date": 1726346199,
+        "max_connections": 100
+    },
+    {
+        "host": "http://globalstreamz.xyz:3050",
+        "username": "dalong1972@gmail.com",
+        "password": "uNHnznZB6z",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1609250682,
+        "end_date": 1719884845,
+        "max_connections": 30
+    },
+    {
+        "host": "http://globalstreamz.xyz:3050",
+        "username": "diana.rogers47@yahoo.com",
+        "password": "pUnv52tkuM",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1688144237,
+        "end_date": 1727715437,
+        "max_connections": 40
+    },
+    {
+        "host": "http://globalstreamz.xyz:3050",
+        "username": "dr.marke89@yahoo.com",
+        "password": "AMe5R58nQu",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1612070632,
+        "end_date": 1725384566,
+        "max_connections": 40
+    },
+    {
+        "host": "http://501203701704419801.ofx508.xyz",
+        "username": "fe94686",
+        "password": "dVAv8buUktU@",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1693817105,
+        "end_date": 1725520439,
+        "max_connections": 30
+    },
+    {
+        "host": "http://501203701704419801.ofx508.xyz",
+        "username": "mi123070",
+        "password": "Xbsm4YbENF",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1705982705,
+        "end_date": 1737787850,
+        "max_connections": 30
+    },
+    {
+        "host": "http://501203701704419801.ofx508.xyz",
+        "username": "Mou231113G",
+        "password": "YFGDTE823749R",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1699885266,
+        "end_date": 1731973651,
+        "max_connections": 30
+    },
+    {
+        "host": "http://501203701704419801.ofx508.xyz",
+        "username": "Nintendo73",
+        "password": "58638538",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1703801332,
+        "end_date": 1735424709,
+        "max_connections": 30
+    },
+    {
+        "host": "http://501203701704419801.ofx508.xyz",
+        "username": "wa427347",
+        "password": "dyUManyJWU4k",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1714189815,
+        "end_date": 1747250718,
+        "max_connections": 300
+    },
+    {
+        "host": "http://501203701704419801.ofx508.xyz",
+        "username": "bojiga2023",
+        "password": "123456789",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1693071242,
+        "end_date": 1724694126,
+        "max_connections": 100
+    },
+    {
+        "host": "http://501203701704419801.ofx508.xyz",
+        "username": "Antoniolitri",
+        "password": "Barcasalitritrebujena",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1710789578,
+        "end_date": 1742325700,
+        "max_connections": 100
+    },
+    {
+        "host": "http://brokentv.rip:8080",
+        "mac": "00:1a:79:b0:34:c5",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://brokentv.rip:8080",
+        "mac": "00:1a:79:b2:15:c3",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://brokentv.rip:8080",
+        "mac": "00:1a:79:be:80:9b",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://redima.pro:8880",
+        "mac": "00:1a:79:0d:1b:76",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://redima.pro:8880",
+        "mac": "00:1a:79:cf:8f:83",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://mag.redmytv.com",
+        "mac": "00:1a:79:bf:2a:c0",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://mag.redmytv.com",
+        "mac": "00:1a:79:05:c2:54",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://apkonrev.store:8080",
+        "mac": "00:1a:79:48:f2:40",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://apkonrev.store:8080",
+        "mac": "00:1a:79:32:4a:3b",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://tr.redatvgold.com",
+        "mac": "00:1A:79:24:74:0D",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://tr.redatvgold.com",
+        "mac": "00:1A:79:7F:0F:3E",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://tr.redatvgold.com",
+        "mac": "00:1A:79:82:5D:72",
+        "type": 1,
+        "entryPoint": "portal.php"
+    },
+    {
+        "host": "http://maventv.one:8080",
+        "username": "sat67999",
+        "password": "ahmedkamal6578",
+        "type": 2,
+        "is_trial": 0,
+        "created_at": 1694714588,
+        "end_date": 1726513260,
+        "max_connections": 1
     }
 ]
