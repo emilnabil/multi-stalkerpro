@@ -319,10 +319,6 @@
         "host": "http://maventv.one:8080",
         "username": "sat67999",
         "password": "ahmedkamal6578",
-        "type": 2,
-        "is_trial": 0,
-        "created_at": 1694714588,
-        "end_date": 1726513260,
-        "max_connections": 1
+        "type": 2
     }
 ]
