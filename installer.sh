@@ -1,3 +1,551 @@
-z="
-";oDz='-xml';ISz='tent';VHz='ull ';wMz='cont';VLz='oadi';Az='echo';pDz='rpc';sQz='pro_';LHz='v/nu';KHz=' /de';SJz='.12.';iDz='-ndg';cJz='a-pl';iOz='p/py';IGz='n';BPz='vix-';QMz='e -m';jHz='t* >';aCz='else';hPz='Text';HEz='syst';aKz=''\''Ins';xBz='elif';GMz=' fou';sSz='.7_a';xDz='ocks';vGz='l 2>';eFz='OOLS';aSz='7ahf';xMz='ent.';RPz='sr/l';vOz='ix-o';iLz='apt-';VRz='-ver';pz='tc/e';ASz=' -O ';tIz='-cor';uRz='2_ar';cIz='ou h';JBz='talk';NTz='_aar';tEz='vest';iIz='STV=';TDz='rypt';ePz='rs.*';bFz='    ';mIz=''\''pyt';GQz='.9-l';dJz='s, e';dFz='ma T';QPz='f /u';jz='Stal';sPz='ion.';bEz='ly';eNz='r.gz';SLz='p 2;';NKz=' is ';Ez='AND ';nSz='ro_o';GEz='gin-';RDz='ite3';bLz=' $IM';XFz='cks';tJz='-1.0';uQz='y3.9';bHz='nder';PTz='.12-';NFz='pydo';SHz='on* ';NEz=' ffm';GCz='sour';hJz='2 li';CCz='pkg/';ILz='e do';BDz='-req';aOz='ge-v';nKz=' "$s';RCz='3\.'\''';CDz='uest';QTz='bh_a';yOz='2el-';aTz='STAR';xNz='-py3';gMz='IPS ';eGz='kerp';DRz='mv7l';wNz=' "ht';nBz='en';MRz='arm.';dOz='rarf';kJz='60 l';SEz=' gst';UBz='mpor';tGz='/dev';SIz='o "$';cNz='s32e';TBz='-c"i';FTz='arch';Xz='/usr';TKz=' 1';JDz='crap';FFz='arse';SCz=' "Yo';Cz='OWNL';QDz='-sql';nPz='ePos';NNz='-sta';wCz='l';oCz='ade';lz='ro'\''';CIz='11.0';DPz='h" /';GHz='lker';KLz='aded';vHz=' "$P';FLz='ds N';Yz='/lib';yCz='hon3';DGz='tiSt';BQz='_4.1';qOz='0_mi';wSz='.gz ';xIz='hy p';aIz='hen';UNz='z';VNz='tar ';YBz='prin';FSz='ithu';rEz='r';xOz='h.ip';YPz='dere';CEz='low';jGz='lib/';cLz='AGIN';sOz='nvix';WFz='pyso';IHz='oInf';uCz='t';CKz='9 -o';JFz='ndg-';xJz='cryp';KOz='y3.1';HSz='rcon';fIz='e ..';RJz='.0 -';fSz='mv7a';dBz='rsio';DQz='9-le';FEz='-plu';MQz='nsht';tOz='nbh.';xEz='sqli';LOz='2_mi';UGz='ove ';YLz='YSIX';XOz='i "o';NDz='eame';ANz='emil';WCz='mage';vDz='rdet';vCz=' cur';CGz='/Mul';mNz='cd /';UOz=' (gr';MSz='il/m';YHz='tion';XCz='"';aMz=' ; t';YNz='p/mu';bMz=' "[ ';iFz='LED ';AHz='nent';XEz='0-pl';kBz='.con';gQz='sel-';IRz='TV" ';ZNz='ro-p';vBz='Drea';yRz='enbh';lEz='beau';MCz='2>&1';WMz='mips';IKz='18 ]';yIz='n3-f';NMz='chec';LFz='scli';AMz='NG N';VOz='ep -';TNz='ar.g';HGz=' the';AIz='N" =';BTz='h64'\''';YOz='penv';VMz='-i '\''';HTz='TER"';FIz='_VER';mRz='f-ne';eQz='zzy_';XGz='plug';sIz='ibc6';dPz='oSta';aPz='erAu';rSz='op.i';HDz='up4';COz='" > ';kGz='ma2/';TMz='p 1;';sz='etti';LNz='O /t';TCz='u ha';hIz='ONLA';FHz='iSta';eIz='ION ';BKz='3.9.';kNz='R" =';ENz='ain/';ez='ins/';Iz='i-st';qGz='ltiS';mFz='  #"';Wz='TH='\''';LIz='$PYT';oKz='ix" ';sNz=' 555';ZSz='armv';TIz='ON" ';Dz='OAD ';oHz='null';hLz='date';yBz=' [ -';nz='INGS';EPz='etc/';RMz=' > $';EEz=' eni';UMz='-qs ';BFz='ypto';lCz='&& o';lQz='p.ip';NOz='pk';wLz='###"';VKz='-q $';FBz='miln';sBz='g/st';gKz=' "$i';OCz='rep ';dEz='se';mHz=' > /';RTz='12-o';JSz='.com';fTz='l re';PCz='-q '\''';GSz='buse';ZRz='hf-n';oMz='heck';USz='rm /';KNz='gz -';GLz='eed ';FJz='htei';DHz='ter/';ITz='h64.';TJz='1 -o';Fz='INST';pRz='arm-';iPz='.* >';ICz='fi';iz='ulti';wDz='-pys';kCz='ate ';Tz=''\''';HOz='orce';LJz='ts p';hTz='t en';tSz='z -O';CBz='onte';nTz=' 0';uz='URL=';jDz='-htt';iBz='/etc';lJz='ibav';ESz='aw.g';eHz='udio';yEz='te3';vJz='++6 ';yNz='.12_';TTz='2-op';MEz='eapp';dSz='on.i';MNz='mp/m';wGz='&1';JOz='ends';wQz='-dev';EFz='argp';nMz='no-c';cBz='n_ve';VFz='det';JNz='tar.';wRz='envi';HCz='ce'\''';tRz='rm-o';nFz=' "**';bz='/pyt';TLz='=="';ELz='epen';YJz='STER';bSz='n.ip';cPz='con.';HNz='ips3';LKz='x'\''';hGz='rf /';cz='hon/';JTz='2_aa';ZDz='ging';YIz='1.5 ';WDz='dump';sCz='ip';qKz=' "Al';YDz='ge';oGz='ns/E';EQz='n_0.';CSz='ttps';ZGz='xten';xFz='BIL ';DNz='ro/m';oJz=' lib';gNz='/';EJz='vens';GBz='abil';NIz='VERS';HFz='cess';dHz='kerA';yz='.git';Nz='ions';tLz='y';xKz=' $OS';AOz='32el';jIz=''\''PY3';nHz='dev/';yJz='togr';TPz='a2/p';jLz='get ';lGz='pyth';tBz='atus';sKz='pend';yKz='ce" ';nJz='at60';eTz='emct';MTz='0_aa';SRz='"ope';Uz='PLUG';KGz='a2/M';ADz='-lxm';QEz='epla';fFz=' $ve';ZCz='PY3'\''';QIz='3.11';KPz='grep';gRz='-neo';lBz='f ] ';aJz='3'\''';wJz='on3-';NHz='>&1';qBz='/var';SBz='hon ';KRz='Y3" ';tMz='w.gi';fQz='0.18';POz='py3.';hBz=' -f ';WRz='); t';JMz='ed  ';gz='nsio';tCz=' wge';YMz='t $C';xHz='N_VE';OBz='ON_V';OIz='ION"';az='gma2';TRz='" /e';HMz='nd i';iTz='igma';sRz='12_a';wKz='led"';tHz='move';bNz='_mip';vMz='user';cEz='s-ba';gCz='PY3"';TQz='_0.1';SMz='K';nIz='PYSI';JLz='wnlo';Sz='/tmp';mKz='" -a';FDz='utif';uLz=' "##';dIz='ave ';VIz='.11.';yDz='-js2';oz='='\''/e';tz='ngs'\''';Pz='2"';mJz='form';ZJz='='\''PY';iQz='enpl';FKz='8.5 ';gJz='ound';aQz='zy_0';rDz='tifi';WGz='ma2-';rIz='er l';sFz='D BY';OOz='p 2';BRz='s -i';uFz='>>  ';yQz=' gre';LEz='rvic';hRz='n-vf';wPz='3.9-';nGz='lugi';oNz='curl';FQz='12.0';cCz='PY2'\''';KFz='http';VTz='   m';RHz='siti';PBz='ERSI';Lz=' "';PNz='py2.';XDz='-ima';RBz='(pyt';eRz='texa';SFz='urll';wOz='penb';cOz='on);';lPz='Info';ODz='rsrv';DSz='://r';VGz='enig';XNz=' /tm';DLz='me D';MFz='ent';fLz=' "ap';hOz='ipk"';LPz=' -qs';kz='kerP';bJz=' als';kPz='vert';RIz='.2 -';WOz='qs -';jJz='odec';gLz='t Up';CHz='nver';URz='tc/i';nLz='all ';OJz='e3 u';CNz='l/mu';bKz='ed'\''';ERz='is a';uSz='.tar';BEz='-pil';aDz='-arg';GFz='ipro';OPz='/iss';DOz='o-py';FMz=' Not';QCz='^Pyt';pJz='c6 l';fGz='ro';cRz='4.ip';tKz='ecie';CPz='bh.i';PSz='n"';AQz='file';BBz='serc';vQz='npli';gOz='r0_m';aLz='..."';JRz='= "P';HPz='" = ';hFz='STAL';Zz='/eni';ROz='ipk';IEz='empl';Vz='INPA';BCz='tc/o';DJz='3-le';QNz='7_mi';VQz='9-fu';hKz='magi';pKz='" ];';ULz='ownl';bBz='ytho';yPz='-rar';DBz='nt.c';KEz='s-se';uKz='s ar';oPz='itio';KSz='/emi';aGz='sion';rPz='olut';RFz='ifi';eOz='ile_';INz='2el.';mCz='pkg ';LBz='o/ma';ONz='pro-';sJz='ibpy';YTz='>   ';WHz='ceRe';BSz='n "h';wIz='grap';RGz='ckag';ZTz='  RE';CRz=' '\''ar';ZLz=' ...';sGz='o > ';bCz='n2 i';UJz='12.2';hMz=']"';JHz='o* >';tFz='  >>';pLz='GING';dCz=' $PY';yLz='MAGI';HIz='" ==';hQz='9-op';ZEz='od';ZOz='/ima';vLz='####';Kz='rpro';DCz='opkg';uDz='-cha';rHz=' "Ol';qIz='ix'\''';APz='open';VSz='NL" ';GDz='ulso';nQz='ipse';kIz='IMAG';mOz='n3-r';uOz='el-o';dQz='zywu';yGz='ompo';uIz='e py';FRz='rmv7';VJz='2.3 ';gEz='dl';rJz='c1 l';NGz=' " R';tNz='32 -';rBz='/dpk';ZQz='ywuz';cSz='v7ah';vNz='5104';JKz='ing'\''';kKz='nsta';EIz='"$PY';bDz='pars';AFz='pycr';qCz='tall';oRz='fpv4';iSz='y_0.';vSz='.gz';mBz='; th';kOz='1-r0';kDz='pscl';EGz='rPro';SOz='son';rOz='-ope';jEz='requ';MMz='tmp/';QRz='m.ta';EOz='l.ip';UKz='if g';jKz='= "I';SQz='tein';dKz='TATU';qMz='" ht';jPz='/Con';nEz='lsou';jFz='SUCC';RQz='ensh';fPz='oRun';jQz='i-de';ZIz=']; t';fBz='")';TFz='ib3';CJz='y py';qRz='pk" ';GIz='SION';IDz='-cfs';NSz='pro/';WNz='-xzf';pQz='pli-';bPz='dioI';PRz='1_ar';CMz=' in ';mGz='on/P';dTz=' = '\''';qPz='eRes';kQz='velo';XHz='solu';gHz='roRu';Qz='TMPD';aHz='s/Re';kMz='wget';LQz='leve';ECz='/opk';eSz='0_ar';kHz='roSt';NCz=' | g';gFz='n IN';PMz='unam';xz='/raw';qQz='deve';MPz=' -i ';bOz='ersi';sLz='IX -';XQz='8.0-';SPz='ib/e';ZPz='r/Mu';mz='SETT';MLz='m Fe';XMz=''\'' ca';REz='yer3';QGz='d Pa';hz='ns/M';lMz=' -q ';YCz='ON='\''';GJz='n py';IIz=' 3.1';Oz='="1.';iKz='ng" ';MBz='in'\''';OEz='peg';oOz='le_4';GRz='l ]"';LSz='lnab';fz='Exte';FOz='k';PFz='thon';eBz='n())';Jz='alke';KKz='n-si';rRz='> /t';kFz='ESSF';gSz='eon.';HJz='3-ra';nCz='upgr';OMz='k'\''';wEz='six';dGz='stal';wHz='YTHO';PEz=' ext';ySz='7_ar';VPz='mpon';aRz='eon-';WSz='r0_a';vRz='m-op';BMz='ot f';vz=''\''htt';HHz='Audi';XJz='5 ];';PDz='-six';DDz='s';DMz='feed';QJz='3.12';uGz='/nul';kSz='3-fu';WBz='atfo';XBz='rm; ';rGz='erPr';ETz='ECK ';tDz='lib3';vEz='v';IMz='n fe';gDz='-mma';TGz=' rem';eJz='a2 l';Mz='vers';LTz='64.i';mDz='-pyd';VBz='t pl';yFz='slee';LGz='ro.j';uBz='OS='\''';ACz='f /e';cTz='p 3;';qz='nigm';oLz='$IMA';lOz='mp/p';vFz=' EMI';oFz='****';oBz='STAT';TSz=' mul';SSz='_arm';uPz='9-ra';OKz='not ';DEz='ate';cGz='lti-';qSz='evel';dRz='_cor';PPz='ue);';YGz='in-e';ZMz='HECK';KQz='0-r0';TEz='play';ALz=' "==';nRz='on-v';mPz='roSe';lKz='lled';iJz='bavc';rLz='$PYS';IQz='shte';gBz='if [';PIz=' == ';xCz=' pyt';NPz='pli ';LRz='.11_';wFz='L_NA';OHz='ProS';xPz='n3.9';AKz='aphy';CLz=' "So';jRz='0_co';rQz='lop.';UTz='*"';pPz='n.* ';lTz='-9 e';vKz='e in';PQz='.0-r';lIz='ING=';OFz='c py';WLz='ng $';aEz='s-ug';mQz='ro_m';DTz=' $CH';MKz=' "Py';GNz='.7_m';RNz='ps32';EHz='Mult';PGz='e Ol';gTz='star';cHz='er/M';QSz='//gi';pOz='.1-r';jCz=' upd';cMz='Your';qEz='rape';vPz='k" >';RSz='raw/';OLz='....';pCz=' ins';UHz='ev/n';HRz='NLAS';VEz='ream';QKz='orte';rz='a2/s';FPz='e-ve';MHz='ll 2';NRz='11_a';bGz='s-mu';iMz=' "PY';wBz='mOS'\''';LDz=' liv';UIz='== 3';AGz='p 4;';bIz=' ":Y';bRz='vfpv';HQz='even';pNz='  -k';fJz='ibas';JPz='if (';AJz='uzzy';nNz='tmp';fDz='sing';aBz='rm.p';fEz=' hls';EBz='om/e';pIz='n3-s';FNz='-py2';QLz='kg U';GGz='n ];';PLz=' "Op';tPz='on3.';JCz='if p';eEz='d';qJz='ibgc';GOz=' --f';vIz='3-cr';QQz='-lev';NLz='eds ';WTz='pro ';RKz='d"';DIz=' -o ';ABz='hubu';fNz=' -C ';qFz=' UPL';pFz=' "  ';aFz=' "# ';lRz='a15h';YSz='neon';JGz='cp -';kRz='rtex';yMz='com/';PHz='ervi';fKz='six=';hHz='nnin';OTz='ch64';oSz='penp';CTz=' cat';SKz='exit';YEz='s-go';BLz='====';eDz='oces';bTz='<<<<';GPz='n); ';XRz='r0_c';dLz='G';AEz='py';aNz='y2.7';KTz='rch6';LLz=' Fro';xSz='-C /';ZFz='sync';Bz=' " D';BGz=' -e ';EDz='-bea';YKz='TUS;';dMz=' dev';oQz='l-py';UPz='n/Co';UFz='char';HLz='to B';GKz='ONL=';pEz='cfsc';rKz='l de';PJz=' [ "';QHz='cePo';JIz='1.1 ';eLz='SIX';UCz='ve P';QFz='cert';jMz='2" ]';rMz='tps:';ZHz='* > ';oEz='p4';MDz='estr';ORz='rm.t';eMz='ice ';eCz='THON';XLz=', $P';XIz='11.4';gPz='ning';BHz='s/Co';lDz='ient';IFz='mmap';PKz='supp';XKz='$STA';JEz='ugin';pHz=' 2>&';YRz='xa15';FGz='.jso';yHz='RSIO';hSz='n3-l';mEz='tifu';iCz='then';MOz='el.i';IPz='"PY3';hDz='p';JJz='3-re';DFz='ing';WEz='er1.';Hz='mult';VDz=' f4m';oIz='X='\''p';MIz='HON_';EMz='  $P';sMz='//ra';rCz=' p7z';ATz='aarc';mLz='inst';fHz='Icon';SDz='-pyc';cQz='-fuz';kEz='ests';fMz='is M';KIz='-o "';BNz='nabi';LMz='K='\''/';VCz='n3 i';rNz='k -m';UEz='er';xRz='x-op';lLz='te';pBz='US='\''';XTz=' >>>';fOz='4.1-';KJz='ques';iGz='usr/';YFz=' ""';STz='h_aa';pGz='s/Mu';iRz='pv4.';qDz='-cer';WPz='ents';HBz='/mul';sEz=' vli';lSz='_ope';iEz='lxml';tQz='el-p';mMz=' "--';bQz='.18.';OSz='main';FCz='Open';kLz='upda';hEz='hon-';IBz='ti-s';jNz='ASTE';Gz='ALL ';uNz='m 55';qLz=' -y';iNz='HONL';DKz='9.7 ';jOz='e_4.';nOz='arfi';sHz='e re';qNz=' -Lb';nDz='oc';xLz='  $I';KMz='CHEC';cDz='-mul';iHz='gTex';jSz='18.0';eKz='S; t';OQz='0.12';ZBz='t(pl';hNz='f /t';pMz='cate';sDz='-url';WQz='zzyw';UDz='o';QBz='ON=$';LCz='ion ';rFz='OADE';cKz='X $S';EKz='6 -o';JQz='in_0';ARz='p -q';lHz='ars*';MGz='son ';XSz='ahf-';YQz='fuzz';xGz='on/C';KCz='n --';SGz='e "';OGz='emov';NQz='ein_';mSz='o_op';NBz='PYTH';IOz='-dep';WKz='ING ';fCz=' = "';KBz='erpr';ZKz='ing=';mTz='a2';lNz='3" ]';XPz='/Ren';uHz='d "';uJz='stdc';RRz='p 1';KDz='e';wz='ps:/';lFz='ULLY';dDz='tipr';qHz='1';TOz='mp/M';Rz='IR='\''';MJz='ix p';jBz='/apt';QOz='12_m';BOz='.ipk';WJz='.4 -';xQz='elop';dNz='l.ta';SNz='el.t';GTz='64 ]';pSz='li-d';CQz='-r0_';BJz='wuzz';hCz=' ]; ';THz='> /d';fRz='15hf';gIz='."';WIz='3 -o';IJz='rfil';dz='Plug';NJz='qlit';kTz='kill';CFz='imag';RLz='pdat';cFz='Enig';UQz='2.0-';uMz='thub';gGz='rm -';HKz='2.7.';uEz='ersr';BIz='= 3.';jTz='2';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$z$mz$nz$oz$pz$qz$rz$sz$tz$z$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$WBz$aBz$bBz$cBz$dBz$eBz$fBz$z$gBz$hBz$iBz$jBz$jBz$kBz$lBz$mBz$nBz$z$oBz$pBz$qBz$Yz$rBz$sBz$tBz$Tz$z$uBz$vBz$wBz$z$xBz$yBz$ACz$BCz$CCz$DCz$kBz$lBz$mBz$nBz$z$oBz$pBz$qBz$Yz$ECz$sBz$tBz$Tz$z$uBz$FCz$GCz$HCz$z$ICz$z$JCz$bBz$KCz$Mz$LCz$MCz$NCz$OCz$PCz$QCz$SBz$RCz$mBz$nBz$z$Az$SCz$TCz$UCz$bBz$VCz$WCz$XCz$z$NBz$YCz$ZCz$z$aCz$z$Az$SCz$TCz$UCz$bBz$bCz$WCz$XCz$z$NBz$YCz$cCz$z$ICz$z$gBz$dCz$eCz$fCz$gCz$hCz$iCz$z$DCz$jCz$kCz$lCz$mCz$nCz$oCz$z$DCz$pCz$qCz$rCz$sCz$z$DCz$pCz$qCz$tCz$uCz$z$DCz$pCz$qCz$vCz$wCz$z$DCz$pCz$qCz$xCz$yCz$ADz$wCz$z$DCz$pCz$qCz$xCz$yCz$BDz$CDz$DDz$z$DCz$pCz$qCz$xCz$yCz$EDz$FDz$GDz$HDz$z$DCz$pCz$qCz$xCz$yCz$IDz$JDz$KDz$z$DCz$pCz$qCz$LDz$MDz$NDz$ODz$z$DCz$pCz$qCz$xCz$yCz$PDz$z$DCz$pCz$qCz$xCz$yCz$QDz$RDz$z$DCz$pCz$qCz$xCz$yCz$SDz$TDz$UDz$z$DCz$pCz$qCz$VDz$WDz$xCz$yCz$XDz$YDz$z$DCz$pCz$qCz$xCz$yCz$XDz$ZDz$z$DCz$pCz$qCz$xCz$yCz$aDz$bDz$KDz$z$DCz$pCz$qCz$xCz$yCz$cDz$dDz$eDz$fDz$z$DCz$pCz$qCz$xCz$yCz$gDz$hDz$z$DCz$pCz$qCz$xCz$yCz$iDz$jDz$kDz$lDz$z$DCz$pCz$qCz$xCz$yCz$mDz$nDz$z$DCz$pCz$qCz$xCz$yCz$oDz$pDz$z$DCz$pCz$qCz$xCz$yCz$qDz$rDz$z$DCz$pCz$qCz$xCz$yCz$sDz$tDz$z$DCz$pCz$qCz$xCz$yCz$uDz$vDz$z$DCz$pCz$qCz$xCz$yCz$wDz$xDz$z$DCz$pCz$qCz$xCz$yCz$yDz$AEz$z$DCz$pCz$qCz$xCz$yCz$BEz$CEz$z$DCz$jCz$DEz$z$DCz$pCz$qCz$EEz$az$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$z$DCz$pCz$qCz$NEz$OEz$z$DCz$pCz$qCz$PEz$QEz$REz$z$DCz$pCz$qCz$SEz$TEz$UEz$z$DCz$jCz$DEz$z$DCz$pCz$qCz$SEz$VEz$WEz$XEz$JEz$YEz$ZEz$z$DCz$pCz$qCz$SEz$VEz$WEz$XEz$JEz$aEz$bEz$z$DCz$pCz$qCz$SEz$VEz$WEz$XEz$JEz$cEz$dEz$z$DCz$pCz$qCz$SEz$VEz$WEz$XEz$JEz$cEz$eEz$z$aCz$z$DCz$jCz$kCz$lCz$mCz$nCz$oCz$z$DCz$jCz$DEz$z$DCz$pCz$qCz$z$DCz$pCz$qCz$tCz$uCz$z$DCz$pCz$qCz$vCz$wCz$z$DCz$pCz$qCz$fEz$gEz$z$DCz$pCz$qCz$xCz$hEz$iEz$z$DCz$pCz$qCz$xCz$hEz$jEz$kEz$z$DCz$pCz$qCz$xCz$hEz$lEz$mEz$nEz$oEz$z$DCz$pCz$qCz$xCz$hEz$pEz$qEz$z$DCz$pCz$qCz$LDz$MDz$NDz$rEz$z$DCz$pCz$qCz$sEz$tEz$VEz$uEz$vEz$z$DCz$pCz$qCz$xCz$hEz$wEz$z$DCz$pCz$qCz$xCz$hEz$xEz$yEz$z$DCz$pCz$qCz$xCz$hEz$AFz$BFz$z$DCz$pCz$qCz$VDz$WDz$z$DCz$pCz$qCz$xCz$hEz$CFz$KDz$z$DCz$pCz$qCz$xCz$hEz$CFz$DFz$z$DCz$pCz$qCz$xCz$hEz$EFz$FFz$z$DCz$pCz$qCz$xCz$hEz$Hz$GFz$HFz$DFz$z$DCz$pCz$qCz$xCz$hEz$IFz$z$DCz$pCz$qCz$xCz$hEz$JFz$KFz$LFz$MFz$z$DCz$pCz$qCz$xCz$hEz$NFz$OFz$PFz$oDz$pDz$z$DCz$pCz$qCz$xCz$hEz$QFz$RFz$z$DCz$pCz$qCz$xCz$hEz$SFz$TFz$z$DCz$pCz$qCz$xCz$hEz$UFz$VFz$z$DCz$pCz$qCz$xCz$hEz$WFz$XFz$z$DCz$pCz$qCz$EEz$az$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$z$DCz$pCz$qCz$NEz$OEz$z$DCz$pCz$qCz$PEz$QEz$REz$z$DCz$pCz$qCz$SEz$TEz$UEz$z$DCz$jCz$DEz$z$DCz$pCz$qCz$SEz$VEz$WEz$XEz$JEz$YEz$ZEz$z$DCz$pCz$qCz$SEz$VEz$WEz$XEz$JEz$aEz$bEz$z$DCz$pCz$qCz$SEz$VEz$WEz$XEz$JEz$cEz$dEz$z$DCz$pCz$qCz$SEz$VEz$WEz$XEz$JEz$cEz$eEz$z$ICz$z$Az$YFz$z$ZFz$z$Az$YFz$z$Az$aFz$bFz$bFz$cFz$dFz$eFz$fFz$dBz$gFz$hFz$iFz$jFz$kFz$lFz$bFz$bFz$bFz$mFz$z$Az$nFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$XCz$z$Az$nFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$XCz$z$Az$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$XCz$z$yFz$AGz$z$gBz$BGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$JGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$MGz$Sz$z$ICz$z$Az$NGz$OGz$PGz$QGz$RGz$SGz$z$DCz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$mGz$nGz$oGz$ZGz$aGz$pGz$qGz$JBz$rGz$sGz$tGz$uGz$vGz$wGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$OHz$PHz$QHz$RHz$SHz$THz$UHz$VHz$MCz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$OHz$PHz$WHz$XHz$YHz$ZHz$tGz$uGz$vGz$wGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$aHz$bHz$cHz$iz$jz$dHz$eHz$fHz$ZHz$tGz$uGz$vGz$wGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$aHz$bHz$cHz$iz$jz$kz$gHz$hHz$iHz$jHz$KHz$LHz$MHz$NHz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$aHz$bHz$cHz$iz$jz$kz$kHz$lHz$mHz$nHz$oHz$pHz$qHz$z$Az$rHz$QGz$RGz$sHz$tHz$uHz$z$gBz$vHz$wHz$xHz$yHz$AIz$BIz$CIz$DIz$EIz$eCz$FIz$GIz$HIz$IIz$JIz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$RIz$SIz$NBz$OBz$PBz$TIz$UIz$VIz$WIz$vHz$wHz$xHz$yHz$AIz$BIz$XIz$DIz$EIz$eCz$FIz$GIz$HIz$IIz$YIz$ZIz$aIz$z$Az$bIz$cIz$dIz$LIz$MIz$NIz$eIz$CFz$fIz$gIz$z$NBz$hIz$iIz$jIz$Tz$z$kIz$lIz$mIz$yCz$XDz$ZDz$Tz$z$nIz$oIz$bBz$pIz$qIz$z$DCz$pCz$qCz$EEz$az$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$PEz$QEz$REz$SEz$TEz$rIz$sIz$xCz$yCz$tIz$uIz$PFz$vIz$BFz$wIz$xIz$bBz$yIz$AJz$BJz$CJz$PFz$DJz$EJz$FJz$GJz$PFz$HJz$IJz$uIz$PFz$JJz$KJz$LJz$bBz$pIz$MJz$bBz$pIz$NJz$OJz$UFz$VFz$z$xBz$PJz$LIz$MIz$NIz$OIz$PIz$QJz$RJz$SIz$NBz$OBz$PBz$TIz$UIz$SJz$TJz$vHz$wHz$xHz$yHz$AIz$BIz$UJz$DIz$EIz$eCz$FIz$GIz$HIz$IIz$VJz$KIz$LIz$MIz$NIz$OIz$PIz$QJz$WJz$SIz$NBz$OBz$PBz$TIz$UIz$SJz$XJz$HGz$IGz$z$Az$bIz$cIz$dIz$LIz$MIz$NIz$eIz$CFz$fIz$gIz$z$NBz$hIz$YJz$ZJz$aJz$z$kIz$lIz$mIz$yCz$XDz$ZDz$Tz$z$nIz$oIz$bBz$pIz$qIz$z$DCz$pCz$qCz$EEz$az$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$PEz$QEz$REz$SEz$TEz$rIz$sIz$xCz$yCz$tIz$uIz$PFz$vIz$BFz$wIz$xIz$bBz$yIz$AJz$BJz$CJz$PFz$DJz$EJz$FJz$GJz$PFz$HJz$IJz$uIz$PFz$JJz$KJz$LJz$bBz$pIz$MJz$bBz$pIz$NJz$OJz$UFz$VFz$z$DCz$pCz$qCz$bJz$cJz$JEz$dJz$qz$eJz$fJz$gJz$hJz$iJz$jJz$kJz$lJz$mJz$nJz$oJz$pJz$qJz$rJz$sJz$PFz$QJz$tJz$oJz$uJz$vJz$lGz$wJz$xJz$yJz$AKz$z$xBz$PJz$LIz$MIz$NIz$OIz$PIz$BKz$CKz$vHz$wHz$xHz$yHz$AIz$BIz$DKz$KIz$LIz$MIz$NIz$OIz$PIz$BKz$EKz$vHz$wHz$xHz$yHz$AIz$BIz$FKz$ZIz$aIz$z$Az$bIz$cIz$dIz$LIz$MIz$NIz$eIz$CFz$fIz$gIz$z$NBz$GKz$jIz$Tz$z$kIz$lIz$mIz$yCz$XDz$ZDz$Tz$z$nIz$oIz$bBz$pIz$qIz$z$DCz$pCz$qCz$EEz$az$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$PEz$QEz$REz$SEz$TEz$rIz$sIz$xCz$yCz$tIz$uIz$PFz$vIz$BFz$wIz$xIz$bBz$yIz$AJz$BJz$CJz$PFz$DJz$EJz$FJz$GJz$PFz$HJz$IJz$uIz$PFz$JJz$KJz$LJz$bBz$pIz$MJz$bBz$pIz$NJz$OJz$UFz$VFz$z$xBz$PJz$LIz$MIz$NIz$OIz$PIz$HKz$IKz$mBz$nBz$z$Az$bIz$cIz$dIz$LIz$MIz$NIz$eIz$CFz$fIz$gIz$z$NBz$YCz$cCz$z$kIz$lIz$mIz$hEz$CFz$JKz$z$nIz$oIz$bBz$KKz$LKz$z$aCz$z$Az$MKz$PFz$NKz$OKz$PKz$QKz$RKz$z$yFz$AGz$z$SKz$TKz$z$ICz$z$UKz$OCz$VKz$kIz$WKz$XKz$YKz$HGz$IGz$z$CFz$ZKz$aKz$qCz$bKz$z$ICz$z$UKz$OCz$VKz$nIz$cKz$dKz$eKz$aIz$z$fKz$aKz$qCz$bKz$z$ICz$z$gBz$gKz$hKz$iKz$jKz$kKz$lKz$mKz$nKz$oKz$jKz$kKz$lKz$pKz$HGz$IGz$z$Az$qKz$rKz$sKz$tKz$uKz$vKz$dGz$wKz$z$aCz$z$gBz$xKz$fCz$FCz$GCz$yKz$ZIz$aIz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$XCz$z$Az$CLz$DLz$ELz$FLz$GLz$HLz$ILz$JLz$KLz$LLz$MLz$NLz$OLz$XCz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$XCz$z$Az$PLz$QLz$RLz$fIz$gIz$z$yFz$SLz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$TLz$z$DCz$jCz$DEz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$TLz$z$Az$Bz$ULz$VLz$WLz$kIz$WKz$XLz$YLz$ZLz$aLz$z$DCz$pCz$qCz$bLz$cLz$dLz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$TLz$z$DCz$pCz$qCz$dCz$eLz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$TLz$z$aCz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$XCz$z$Az$CLz$DLz$ELz$FLz$GLz$HLz$ILz$JLz$KLz$LLz$MLz$NLz$OLz$XCz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$XCz$z$Az$fLz$gLz$hLz$ZLz$XCz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$TLz$z$iLz$jLz$kLz$lLz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$TLz$z$Az$Bz$ULz$VLz$WLz$kIz$WKz$XLz$YLz$ZLz$aLz$z$iLz$jLz$mLz$nLz$oLz$pLz$qLz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$TLz$z$iLz$jLz$mLz$nLz$rLz$sLz$tLz$z$Az$ALz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$BLz$TLz$z$ICz$z$ICz$z$UKz$OCz$VKz$kIz$WKz$XKz$YKz$HGz$IGz$z$Az$YFz$z$aCz$z$Az$uLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$wLz$z$Az$aFz$bFz$xLz$yLz$AMz$BMz$gJz$CMz$DMz$bFz$bFz$bFz$bFz$bFz$mFz$z$Az$uLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$wLz$z$ICz$z$UKz$OCz$VKz$nIz$cKz$dKz$eKz$aIz$z$Az$YFz$z$aCz$z$Az$uLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$wLz$z$Az$aFz$bFz$EMz$YLz$FMz$GMz$HMz$IMz$JMz$bFz$bFz$bFz$bFz$bFz$mFz$z$Az$uLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$wLz$z$SKz$TKz$z$ICz$z$KMz$LMz$MMz$NMz$OMz$z$PMz$QMz$RMz$KMz$SMz$z$yFz$TMz$z$UKz$OCz$UMz$VMz$WMz$XMz$YMz$ZMz$aMz$aIz$z$Az$bMz$cMz$dMz$eMz$fMz$gMz$hMz$z$gBz$vHz$wHz$AIz$iMz$jMz$mBz$nBz$z$kMz$lMz$mMz$nMz$oMz$qDz$rDz$pMz$qMz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$FNz$GNz$HNz$INz$JNz$KNz$LNz$MNz$iz$NNz$GHz$ONz$PNz$QNz$RNz$SNz$TNz$UNz$z$VNz$WNz$XNz$YNz$cGz$dGz$eGz$ZNz$aNz$bNz$cNz$dNz$eNz$fNz$gNz$z$yFz$SLz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$PNz$QNz$RNz$SNz$TNz$UNz$z$xBz$PJz$LIz$iNz$jNz$kNz$iMz$lNz$mBz$nBz$z$DCz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$xNz$yNz$WMz$AOz$BOz$COz$Sz$HBz$IBz$JBz$KBz$DOz$QJz$bNz$cNz$EOz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$YNz$cGz$dGz$eGz$ZNz$KOz$LOz$RNz$MOz$NOz$z$yFz$OOz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$POz$QOz$HNz$INz$ROz$z$Az$YFz$z$gBz$BGz$Sz$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$gGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$SOz$z$JGz$hNz$TOz$iz$jz$kz$LGz$MGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$IGz$z$ICz$z$Az$YFz$z$xBz$UOz$VOz$WOz$XOz$YOz$oKz$iBz$ZOz$aOz$bOz$cOz$HGz$IGz$z$DCz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$mGz$nGz$oGz$ZGz$aGz$pGz$qGz$JBz$rGz$sGz$tGz$uGz$vGz$wGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$OHz$PHz$QHz$RHz$SHz$THz$UHz$VHz$MCz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$OHz$PHz$WHz$XHz$YHz$ZHz$tGz$uGz$vGz$wGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$aHz$bHz$cHz$iz$jz$dHz$eHz$fHz$ZHz$tGz$uGz$vGz$wGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$aHz$bHz$cHz$iz$jz$kz$gHz$hHz$iHz$jHz$KHz$LHz$MHz$NHz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$aHz$bHz$cHz$iz$jz$kz$kHz$lHz$mHz$nHz$oHz$pHz$qHz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$wJz$dOz$eOz$fOz$gOz$HNz$INz$hOz$mHz$MMz$lGz$wJz$dOz$eOz$fOz$gOz$HNz$INz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$HJz$IJz$jOz$kOz$bNz$cNz$EOz$FOz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$mOz$nOz$oOz$pOz$qOz$RNz$MOz$NOz$z$Az$YFz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$xNz$yNz$WMz$AOz$rOz$sOz$rOz$tOz$hOz$mHz$MMz$Hz$Iz$Jz$Kz$xNz$yNz$WMz$AOz$rOz$sOz$rOz$tOz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$YNz$cGz$dGz$eGz$ZNz$KOz$LOz$RNz$uOz$YOz$vOz$wOz$xOz$FOz$z$yFz$OOz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$POz$QOz$HNz$yOz$APz$BPz$APz$CPz$NOz$z$Az$YFz$z$Az$YFz$z$gBz$BGz$Sz$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$gGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$SOz$z$JGz$hNz$TOz$iz$jz$kz$LGz$MGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$IGz$z$ICz$z$Az$YFz$z$xBz$UOz$VOz$WOz$XOz$wOz$DPz$EPz$CFz$FPz$dBz$GPz$iCz$z$DCz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$mGz$nGz$oGz$ZGz$aGz$pGz$qGz$JBz$rGz$sGz$tGz$uGz$vGz$wGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$OHz$PHz$QHz$RHz$SHz$THz$UHz$VHz$MCz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$GHz$OHz$PHz$WHz$XHz$YHz$ZHz$tGz$uGz$vGz$wGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$aHz$bHz$cHz$iz$jz$dHz$eHz$fHz$ZHz$tGz$uGz$vGz$wGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$aHz$bHz$cHz$iz$jz$kz$gHz$hHz$iHz$jHz$KHz$LHz$MHz$NHz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$xGz$yGz$AHz$aHz$bHz$cHz$iz$jz$kz$kHz$lHz$mHz$nHz$oHz$pHz$qHz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$wJz$dOz$eOz$fOz$gOz$HNz$INz$hOz$mHz$MMz$lGz$wJz$dOz$eOz$fOz$gOz$HNz$INz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$HJz$IJz$jOz$kOz$bNz$cNz$EOz$FOz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$mOz$nOz$oOz$pOz$qOz$RNz$MOz$NOz$z$Az$YFz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$xNz$yNz$WMz$AOz$rOz$sOz$rOz$tOz$hOz$mHz$MMz$Hz$Iz$Jz$Kz$xNz$yNz$WMz$AOz$rOz$sOz$rOz$tOz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$YNz$cGz$dGz$eGz$ZNz$KOz$LOz$RNz$uOz$YOz$vOz$wOz$xOz$FOz$z$yFz$OOz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$POz$QOz$HNz$yOz$APz$BPz$APz$CPz$NOz$z$Az$YFz$z$Az$YFz$z$gBz$BGz$Sz$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$gGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$SOz$z$JGz$hNz$TOz$iz$jz$kz$LGz$MGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$IGz$z$ICz$z$Az$YFz$z$xBz$PJz$LIz$iNz$HPz$IPz$pKz$HGz$IGz$z$JPz$KPz$LPz$MPz$APz$NPz$iBz$OPz$PPz$HGz$IGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$mGz$nGz$oGz$ZGz$aGz$pGz$qGz$JBz$rGz$sGz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$aPz$bPz$cPz$ZHz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$dPz$ePz$mHz$nHz$oHz$pHz$qHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$fPz$gPz$hPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$dHz$eHz$lPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$nPz$oPz$pPz$THz$UHz$VHz$MCz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$qPz$rPz$sPz$ZHz$tGz$uGz$vGz$wGz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$tPz$uPz$IJz$jOz$kOz$bNz$cNz$EOz$vPz$XNz$iOz$PFz$wPz$dOz$eOz$fOz$gOz$HNz$INz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$wPz$dOz$eOz$fOz$gOz$HNz$INz$ROz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$xPz$yPz$AQz$BQz$CQz$WMz$AOz$BOz$z$Az$YFz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$tPz$DQz$EJz$FJz$EQz$FQz$CQz$WMz$AOz$BOz$COz$Sz$bz$yCz$GQz$HQz$IQz$JQz$SJz$KQz$bNz$cNz$EOz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$wPz$LQz$MQz$NQz$OQz$PQz$qOz$RNz$MOz$NOz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$xPz$QQz$RQz$SQz$TQz$UQz$gOz$HNz$INz$ROz$z$Az$YFz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$tPz$VQz$WQz$AJz$TQz$XQz$gOz$HNz$INz$hOz$mHz$MMz$lGz$tPz$VQz$WQz$AJz$TQz$XQz$gOz$HNz$INz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$wPz$YQz$ZQz$aQz$bQz$KQz$bNz$cNz$EOz$FOz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$xPz$cQz$dQz$eQz$fQz$PQz$qOz$RNz$MOz$NOz$z$Az$YFz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$bNz$gQz$POz$hQz$iQz$jQz$kQz$lQz$vPz$XNz$YNz$cGz$dGz$eGz$mQz$nQz$oQz$wPz$APz$pQz$qQz$rQz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$YNz$cGz$dGz$eGz$mQz$nQz$oQz$wPz$APz$pQz$qQz$rQz$ROz$z$yFz$OOz$z$gGz$hNz$MNz$iz$NNz$GHz$sQz$WMz$tQz$uQz$rOz$vQz$wQz$xQz$BOz$z$Az$YFz$z$Az$YFz$z$gBz$BGz$Sz$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$gGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$SOz$z$JGz$hNz$TOz$iz$jz$kz$LGz$MGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$IGz$z$ICz$z$Az$YFz$z$aCz$z$Az$YFz$z$yFz$AGz$z$ICz$z$ICz$z$xBz$yQz$ARz$BRz$CRz$DRz$XMz$YMz$ZMz$aMz$aIz$z$Az$bMz$cMz$dMz$eMz$ERz$FRz$GRz$z$gBz$vHz$wHz$HRz$IRz$JRz$KRz$ZIz$aIz$z$kMz$lMz$mMz$nMz$oMz$qDz$rDz$pMz$qMz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$xNz$LRz$MRz$JNz$KNz$LNz$MNz$iz$NNz$GHz$ONz$POz$NRz$ORz$TNz$UNz$z$VNz$WNz$XNz$YNz$cGz$dGz$eGz$ZNz$KOz$PRz$QRz$eNz$fNz$gNz$z$yFz$SLz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$POz$NRz$ORz$TNz$UNz$z$xBz$PJz$LIz$iNz$jNz$kNz$iMz$lNz$mBz$nBz$z$DCz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$z$yFz$RRz$z$JPz$KPz$LPz$MPz$SRz$sOz$TRz$URz$WCz$VRz$aGz$WRz$aIz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$mGz$nGz$oGz$ZGz$aGz$pGz$qGz$JBz$rGz$sGz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$aPz$bPz$cPz$ZHz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$dPz$ePz$mHz$nHz$oHz$pHz$qHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$fPz$gPz$hPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$dHz$eHz$lPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$nPz$oPz$pPz$THz$UHz$VHz$MCz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$qPz$rPz$sPz$ZHz$tGz$uGz$vGz$wGz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$wJz$dOz$eOz$fOz$XRz$QKz$YRz$ZRz$aRz$bRz$cRz$vPz$XNz$iOz$PFz$HJz$IJz$jOz$kOz$dRz$eRz$fRz$gRz$hRz$iRz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$HJz$IJz$jOz$kOz$dRz$eRz$fRz$gRz$hRz$iRz$ROz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$mOz$nOz$oOz$pOz$jRz$kRz$lRz$mRz$nRz$oRz$BOz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$xNz$yNz$pRz$APz$BPz$APz$CPz$qRz$rRz$MNz$iz$NNz$GHz$ONz$POz$sRz$tRz$YOz$vOz$wOz$xOz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$YNz$cGz$dGz$eGz$ZNz$KOz$uRz$vRz$wRz$xRz$yRz$BOz$z$yFz$OOz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$POz$sRz$tRz$YOz$vOz$wOz$xOz$FOz$z$Az$YFz$z$Az$YFz$z$gBz$BGz$Sz$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$gGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$SOz$z$JGz$hNz$TOz$iz$jz$kz$LGz$MGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$IGz$z$ICz$z$Az$YFz$z$xBz$UOz$VOz$WOz$XOz$wOz$DPz$EPz$CFz$FPz$dBz$GPz$iCz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$mGz$nGz$oGz$ZGz$aGz$pGz$qGz$JBz$rGz$sGz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$aPz$bPz$cPz$ZHz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$dPz$ePz$mHz$nHz$oHz$pHz$qHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$fPz$gPz$hPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$dHz$eHz$lPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$nPz$oPz$pPz$THz$UHz$VHz$MCz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$qPz$rPz$sPz$ZHz$tGz$uGz$vGz$wGz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$wJz$dOz$eOz$fOz$XRz$QKz$YRz$ZRz$aRz$bRz$cRz$vPz$XNz$iOz$PFz$HJz$IJz$jOz$kOz$dRz$eRz$fRz$gRz$hRz$iRz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$HJz$IJz$jOz$kOz$dRz$eRz$fRz$gRz$hRz$iRz$ROz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$mOz$nOz$oOz$pOz$jRz$kRz$lRz$mRz$nRz$oRz$BOz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$xNz$yNz$pRz$APz$BPz$APz$CPz$qRz$rRz$MNz$iz$NNz$GHz$ONz$POz$sRz$tRz$YOz$vOz$wOz$xOz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$YNz$cGz$dGz$eGz$ZNz$KOz$uRz$vRz$wRz$xRz$yRz$BOz$z$yFz$OOz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$POz$sRz$tRz$YOz$vOz$wOz$xOz$FOz$z$Az$YFz$z$kMz$ASz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$BSz$CSz$DSz$ESz$FSz$GSz$HSz$ISz$JSz$KSz$LSz$MSz$iz$NNz$GHz$NSz$OSz$CGz$DGz$Jz$EGz$FGz$PSz$z$Az$YFz$z$aCz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$QSz$uMz$JSz$KSz$LSz$MSz$iz$NNz$GHz$NSz$RSz$OSz$HBz$IBz$JBz$KBz$DOz$QJz$SSz$BOz$COz$Sz$HBz$IBz$JBz$KBz$DOz$QJz$SSz$BOz$z$yFz$RRz$z$mNz$nNz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$TSz$IBz$JBz$KBz$DOz$QJz$SSz$BOz$z$Az$YFz$z$Az$YFz$z$Az$YFz$z$gBz$BGz$Sz$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$gGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$SOz$z$JGz$hNz$TOz$iz$jz$kz$LGz$MGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$IGz$z$ICz$z$Az$YFz$z$Az$YFz$z$Az$YFz$z$Az$YFz$z$Az$YFz$z$yFz$RRz$z$USz$MMz$Hz$Iz$Jz$Kz$xNz$yNz$MRz$ROz$z$ICz$z$ICz$z$ICz$z$gBz$vHz$wHz$VSz$JRz$KRz$ZIz$aIz$z$JPz$KPz$LPz$MPz$APz$NPz$iBz$OPz$PPz$HGz$IGz$z$DCz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$mGz$nGz$oGz$ZGz$aGz$pGz$qGz$JBz$rGz$sGz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$aPz$bPz$cPz$ZHz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$dPz$ePz$mHz$nHz$oHz$pHz$qHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$fPz$gPz$hPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$dHz$eHz$lPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$nPz$oPz$pPz$THz$UHz$VHz$MCz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$qPz$rPz$sPz$ZHz$tGz$uGz$vGz$wGz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$wJz$dOz$eOz$fOz$WSz$FRz$XSz$YSz$BOz$COz$Sz$bz$yCz$yPz$AQz$BQz$CQz$ZSz$aSz$gRz$bSz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$HJz$IJz$jOz$kOz$SSz$cSz$mRz$dSz$NOz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$mOz$nOz$oOz$pOz$eSz$fSz$ZRz$gSz$ROz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$wJz$LQz$MQz$NQz$OQz$PQz$eSz$fSz$ZRz$gSz$hOz$mHz$MMz$lGz$wJz$LQz$MQz$NQz$OQz$PQz$eSz$fSz$ZRz$gSz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$DJz$EJz$FJz$EQz$FQz$CQz$ZSz$aSz$gRz$bSz$FOz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$hSz$HQz$IQz$JQz$SJz$KQz$SSz$cSz$mRz$dSz$NOz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$wJz$YQz$ZQz$aQz$bQz$KQz$SSz$cSz$mRz$dSz$qRz$rRz$lOz$bBz$yIz$AJz$BJz$iSz$jSz$CQz$ZSz$aSz$gRz$bSz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$kSz$WQz$AJz$TQz$XQz$WSz$FRz$XSz$YSz$BOz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$yIz$AJz$BJz$iSz$jSz$CQz$ZSz$aSz$gRz$bSz$FOz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$lSz$vQz$wQz$xQz$BOz$COz$Sz$HBz$IBz$JBz$KBz$mSz$iQz$jQz$kQz$lQz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$YNz$cGz$dGz$eGz$nSz$oSz$pSz$qSz$rSz$NOz$z$yFz$OOz$z$gGz$hNz$MNz$iz$NNz$GHz$sQz$APz$pQz$qQz$rQz$ROz$z$yFz$TMz$z$gBz$BGz$Sz$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$gGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$SOz$z$JGz$hNz$TOz$iz$jz$kz$LGz$MGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$IGz$z$ICz$z$Az$YFz$z$Az$YFz$z$ICz$z$ICz$z$gBz$vHz$wHz$AIz$iMz$jMz$mBz$nBz$z$kMz$lMz$mMz$nMz$oMz$qDz$rDz$pMz$qMz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$FNz$sSz$ORz$TNz$tSz$XNz$YNz$cGz$dGz$eGz$ZNz$aNz$SSz$uSz$vSz$z$yFz$TMz$z$VNz$WNz$XNz$YNz$cGz$dGz$eGz$ZNz$aNz$SSz$uSz$wSz$xSz$z$yFz$SLz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$PNz$ySz$QRz$eNz$z$Az$YFz$z$yFz$SLz$z$ICz$z$Az$YFz$z$UKz$OCz$UMz$VMz$ATz$BTz$CTz$DTz$ETz$mBz$nBz$z$Az$bMz$cMz$dMz$eMz$ERz$FTz$GTz$XCz$z$gBz$vHz$wHz$HRz$HTz$fCz$gCz$hCz$iCz$z$DCz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$xNz$yNz$ATz$ITz$hOz$mHz$MMz$Hz$Iz$Jz$Kz$xNz$yNz$ATz$ITz$ROz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$YNz$cGz$dGz$eGz$ZNz$KOz$JTz$KTz$cRz$FOz$z$yFz$OOz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$POz$sRz$FTz$LTz$NOz$z$Az$YFz$z$gBz$BGz$Sz$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$gGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$SOz$z$JGz$hNz$TOz$iz$jz$kz$LGz$MGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$IGz$z$ICz$z$Az$YFz$z$xBz$UOz$VOz$WOz$XOz$YOz$oKz$iBz$ZOz$aOz$bOz$cOz$HGz$IGz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$mGz$nGz$oGz$ZGz$aGz$pGz$qGz$JBz$rGz$sGz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$aPz$bPz$cPz$ZHz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$dPz$ePz$mHz$nHz$oHz$pHz$qHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$fPz$gPz$hPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$dHz$eHz$lPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$nPz$oPz$pPz$THz$UHz$VHz$MCz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$qPz$rPz$sPz$ZHz$tGz$uGz$vGz$wGz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$wJz$dOz$eOz$fOz$WSz$FTz$LTz$qRz$rRz$lOz$bBz$mOz$nOz$oOz$pOz$MTz$KTz$cRz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$HJz$IJz$jOz$kOz$NTz$OTz$BOz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$mOz$nOz$oOz$pOz$MTz$KTz$cRz$FOz$z$Az$YFz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$xNz$PTz$APz$BPz$APz$QTz$FTz$LTz$qRz$rRz$MNz$iz$NNz$GHz$ONz$POz$RTz$YOz$vOz$wOz$STz$KTz$cRz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$YNz$cGz$dGz$eGz$ZNz$KOz$TTz$wRz$xRz$yRz$NTz$OTz$BOz$z$yFz$OOz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$POz$RTz$YOz$vOz$wOz$STz$KTz$cRz$FOz$z$Az$YFz$z$gBz$BGz$Sz$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$gGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$SOz$z$JGz$hNz$TOz$iz$jz$kz$LGz$MGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$IGz$z$ICz$z$Az$YFz$z$xBz$UOz$VOz$WOz$XOz$wOz$DPz$EPz$CFz$FPz$dBz$GPz$iCz$z$gGz$hGz$iGz$jGz$VGz$kGz$lGz$mGz$nGz$oGz$ZGz$aGz$pGz$qGz$JBz$rGz$sGz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$aPz$bPz$cPz$ZHz$tGz$uGz$vGz$wGz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$dPz$ePz$mHz$nHz$oHz$pHz$qHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$XPz$YPz$ZPz$qGz$JBz$rGz$fPz$gPz$hPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$dHz$eHz$lPz$iPz$KHz$LHz$MHz$NHz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$nPz$oPz$pPz$THz$UHz$VHz$MCz$z$gGz$QPz$RPz$SPz$qz$TPz$bBz$UPz$VPz$WPz$jPz$kPz$cHz$iz$jz$kz$mPz$LEz$qPz$rPz$sPz$ZHz$tGz$uGz$vGz$wGz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$lGz$wJz$dOz$eOz$fOz$WSz$FTz$LTz$qRz$rRz$lOz$bBz$mOz$nOz$oOz$pOz$MTz$KTz$cRz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$iOz$PFz$HJz$IJz$jOz$kOz$NTz$OTz$BOz$z$yFz$OOz$z$gGz$hNz$lOz$bBz$mOz$nOz$oOz$pOz$MTz$KTz$cRz$FOz$z$Az$YFz$z$yFz$TMz$z$mNz$nNz$z$oNz$pNz$qNz$rNz$sNz$tNz$uNz$vNz$wNz$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$cGz$dGz$eGz$DNz$ENz$Hz$Iz$Jz$Kz$xNz$PTz$APz$BPz$APz$QTz$FTz$LTz$qRz$rRz$MNz$iz$NNz$GHz$ONz$POz$RTz$YOz$vOz$wOz$STz$KTz$cRz$FOz$z$DCz$pCz$qCz$GOz$HOz$IOz$JOz$XNz$YNz$cGz$dGz$eGz$ZNz$KOz$TTz$wRz$xRz$yRz$NTz$OTz$BOz$z$yFz$OOz$z$gGz$hNz$MNz$iz$NNz$GHz$ONz$POz$RTz$YOz$vOz$wOz$STz$KTz$cRz$FOz$z$Az$YFz$z$gBz$BGz$Sz$CGz$DGz$Jz$EGz$FGz$GGz$HGz$IGz$z$gGz$ACz$pz$qz$KGz$iz$jz$kz$LGz$SOz$z$JGz$hNz$TOz$iz$jz$kz$LGz$MGz$iBz$Zz$az$CGz$DGz$Jz$EGz$FGz$IGz$z$ICz$z$Az$YFz$z$aCz$z$Az$YFz$z$ICz$z$aCz$z$Az$YFz$z$yFz$SLz$z$ICz$z$Az$YFz$z$Az$uLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$vLz$wLz$z$Az$nFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$UTz$z$Az$nFz$bFz$bFz$bFz$bFz$bFz$VTz$iz$NNz$GHz$WTz$bFz$bFz$bFz$bFz$bFz$UTz$z$Az$nFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$UTz$z$Az$nFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$oFz$UTz$z$Az$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$XCz$z$yFz$AGz$z$Az$pFz$XTz$YTz$bFz$ZTz$aTz$WKz$bFz$bFz$bTz$XCz$z$yFz$cTz$z$gBz$xKz$dTz$vBz$wBz$hCz$iCz$z$HEz$eTz$fTz$gTz$hTz$iTz$jTz$z$aCz$z$kTz$nLz$lTz$qz$mTz$z$ICz$z$SKz$nTz$z$SKz$nTz"
+echo " DOWNLOAD AND INSTALL multi-stalkerpro "
+versions="1.2"
+TMPDIR='/tmp'
+PLUGINPATH='/usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro'
+SETTINGS='/etc/enigma2/settings'
+URL='https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main'
+PYTHON_VERSION=$(python -c"import platform; print(platform.python_version())")
+if [ -f /etc/apt/apt.conf ] ; then
+STATUS='/var/lib/dpkg/status'
+OS='DreamOS'
+elif [ -f /etc/opkg/opkg.conf ] ; then
+STATUS='/var/lib/opkg/status'
+OS='Opensource'
+fi
+if python --version 2>&1 | grep -q '^Python 3\.'; then
+echo "You have Python3 image"
+PYTHON='PY3'
+else
+echo "You have Python2 image"
+PYTHON='PY2'
+fi
+if [ $PYTHON = "PY3" ]; then
+opkg update && opkg upgrade
+opkg install p7zip
+opkg install wget
+opkg install curl
+opkg install python3-lxml
+opkg install python3-requests
+opkg install python3-beautifulsoup4
+opkg install python3-cfscrape
+opkg install livestreamersrv
+opkg install python3-six
+opkg install python3-sqlite3
+opkg install python3-pycrypto
+opkg install f4mdump python3-image
+opkg install python3-imaging
+opkg install python3-argparse
+opkg install python3-multiprocessing
+opkg install python3-mmap
+opkg install python3-ndg-httpsclient
+opkg install python3-pydoc
+opkg install python3-xmlrpc
+opkg install python3-certifi
+opkg install python3-urllib3
+opkg install python3-chardet
+opkg install python3-pysocks
+opkg install python3-js2py
+opkg install python3-pillow
+opkg update
+opkg install enigma2-plugin-systemplugins-serviceapp
+opkg install ffmpeg
+opkg install exteplayer3
+opkg install gstplayer
+opkg update
+opkg install gstreamer1.0-plugins-good
+opkg install gstreamer1.0-plugins-ugly
+opkg install gstreamer1.0-plugins-base
+opkg install gstreamer1.0-plugins-bad
+else
+opkg update && opkg upgrade
+opkg update
+opkg install
+opkg install wget
+opkg install curl
+opkg install hlsdl
+opkg install python-lxml
+opkg install python-requests
+opkg install python-beautifulsoup4
+opkg install python-cfscrape
+opkg install livestreamer
+opkg install vlivestreamersrv
+opkg install python-six
+opkg install python-sqlite3
+opkg install python-pycrypto
+opkg install f4mdump
+opkg install python-image
+opkg install python-imaging
+opkg install python-argparse
+opkg install python-multiprocessing
+opkg install python-mmap
+opkg install python-ndg-httpsclient
+opkg install python-pydoc python-xmlrpc
+opkg install python-certifi
+opkg install python-urllib3
+opkg install python-chardet
+opkg install python-pysocks
+opkg install enigma2-plugin-systemplugins-serviceapp
+opkg install ffmpeg
+opkg install exteplayer3
+opkg install gstplayer
+opkg update
+opkg install gstreamer1.0-plugins-good
+opkg install gstreamer1.0-plugins-ugly
+opkg install gstreamer1.0-plugins-base
+opkg install gstreamer1.0-plugins-bad
+fi
+echo ""
+sync
+echo ""
+echo "#         Enigma TOOLS $version INSTALLED SUCCESSFULLY              #"
+echo "**************************************************************"
+echo "**************************************************************"
+echo "   UPLOADED BY  >>>>   EMIL_NABIL "
+sleep 4;
+if [ -e /etc/enigma2/MultiStalkerPro.json ]; then
+cp -f /etc/enigma2/MultiStalkerPro.json /tmp
+fi
+echo " Remove Old Package "
+opkg remove enigma2-plugin-extensions-multi-stalkerpro
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Converter/MultiStalkerAudioInfo* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServicePosition* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServiceResolution* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Renderer/MultiStalkerAudioIcon* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProRunningText* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProStars* > /dev/null 2>&1
+echo "Old Package removed "
+if [ "$PYTHON_VERSION" == 3.11.0 -o "$PYTHON_VERSION" == 3.11.1 -o "$PYTHON_VERSION" == 3.11.2 -o "$PYTHON_VERSION" == 3.11.3 -o "$PYTHON_VERSION" == 3.11.4 -o "$PYTHON_VERSION" == 3.11.5 ]; then
+echo ":You have $PYTHON_VERSION image ..."
+PYTHONLASTV='PY3'
+IMAGING='python3-imaging'
+PYSIX='python3-six'
+opkg install enigma2-plugin-systemplugins-serviceapp exteplayer3 gstplayer libc6 python3-core python3-cryptography python3-fuzzywuzzy python3-levenshtein python3-rarfile python3-requests python3-six python3-sqlite3 uchardet
+elif [ "$PYTHON_VERSION" == 3.12.0 -o "$PYTHON_VERSION" == 3.12.1 -o "$PYTHON_VERSION" == 3.12.2 -o "$PYTHON_VERSION" == 3.12.3 -o "$PYTHON_VERSION" == 3.12.4 -o "$PYTHON_VERSION" == 3.12.5 ]; then
+echo ":You have $PYTHON_VERSION image ..."
+PYTHONLASTER='PY3'
+IMAGING='python3-imaging'
+PYSIX='python3-six'
+opkg install enigma2-plugin-systemplugins-serviceapp exteplayer3 gstplayer libc6 python3-core python3-cryptography python3-fuzzywuzzy python3-levenshtein python3-rarfile python3-requests python3-six python3-sqlite3 uchardet
+opkg install alsa-plugins, enigma2 libasound2 libavcodec60 libavformat60 libc6 libgcc1 libpython3.12-1.0 libstdc++6 python3-cryptography
+elif [ "$PYTHON_VERSION" == 3.9.9 -o "$PYTHON_VERSION" == 3.9.7 -o "$PYTHON_VERSION" == 3.9.6 -o "$PYTHON_VERSION" == 3.8.5 ]; then
+echo ":You have $PYTHON_VERSION image ..."
+PYTHONL='PY3'
+IMAGING='python3-imaging'
+PYSIX='python3-six'
+opkg install enigma2-plugin-systemplugins-serviceapp exteplayer3 gstplayer libc6 python3-core python3-cryptography python3-fuzzywuzzy python3-levenshtein python3-rarfile python3-requests python3-six python3-sqlite3 uchardet
+elif [ "$PYTHON_VERSION" == 2.7.18 ]; then
+echo ":You have $PYTHON_VERSION image ..."
+PYTHON='PY2'
+IMAGING='python-imaging'
+PYSIX='python-six'
+else
+echo "Python is not supported"
+sleep 4;
+exit 1
+fi
+if grep -q $IMAGING $STATUS; then
+imaging='Installed'
+fi
+if grep -q $PYSIX $STATUS; then
+six='Installed'
+fi
+if [ "$imaging" = "Installed" -a "$six" = "Installed" ]; then
+echo "All dependecies are installed"
+else
+if [ $OS = "Opensource" ]; then
+echo "=========================================================================="
+echo "Some Depends Need to Be downloaded From Feeds ...."
+echo "=========================================================================="
+echo "Opkg Update ..."
+sleep 2;
+echo "========================================================================"
+opkg update
+echo "========================================================================"
+echo " Downloading $IMAGING , $PYSIX ......"
+opkg install $IMAGING
+echo "========================================================================"
+opkg install $PYSIX
+echo "========================================================================"
+else
+echo "=========================================================================="
+echo "Some Depends Need to Be downloaded From Feeds ...."
+echo "=========================================================================="
+echo "apt Update ..."
+echo "========================================================================"
+apt-get update
+echo "========================================================================"
+echo " Downloading $IMAGING , $PYSIX ......"
+apt-get install $IMAGING -y
+echo "========================================================================"
+apt-get install $PYSIX -y
+echo "========================================================================"
+fi
+fi
+if grep -q $IMAGING $STATUS; then
+echo ""
+else
+echo "#########################################################"
+echo "#       $IMAGING Not found in feed                      #"
+echo "#########################################################"
+fi
+if grep -q $PYSIX $STATUS; then
+echo ""
+else
+echo "#########################################################"
+echo "#       $PYSIX Not found in feed                        #"
+echo "#########################################################"
+exit 1
+fi
+CHECK='/tmp/check'
+uname -m > $CHECK
+sleep 1;
+if grep -qs -i 'mips' cat $CHECK ; then
+echo "[ Your device is MIPS ]"
+if [ "$PYTHON" = "PY2" ]; then
+wget -q  "--no-check-certificate" https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py2.7_mips32el.tar.gz -O /tmp/multi-stalkerpro-py2.7_mips32el.tar.gz
+tar -xzf /tmp/multi-stalkerpro-py2.7_mips32el.tar.gz -C /
+sleep 2;
+rm -f /tmp/multi-stalkerpro-py2.7_mips32el.tar.gz
+elif [ "$PYTHONLASTER" = "PY3" ]; then
+opkg remove enigma2-plugin-extensions-multi-stalkerpro
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.12_mips32el.ipk" > /tmp/multi-stalkerpro-py3.12_mips32el.ipk
+opkg install --force-depends /tmp/multi-stalkerpro-py3.12_mips32el.ipk
+sleep 2
+rm -f /tmp/multi-stalkerpro-py3.12_mips32el.ipk
+echo ""
+if [ -e /tmp/MultiStalkerPro.json ]; then
+rm -f /etc/enigma2/MultiStalkerPro.json
+cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json
+fi
+echo ""
+elif (grep -qs -i "openvix" /etc/image-version); then
+opkg remove enigma2-plugin-extensions-multi-stalkerpro
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Converter/MultiStalkerAudioInfo* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServicePosition* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServiceResolution* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Renderer/MultiStalkerAudioIcon* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProRunningText* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProStars* > /dev/null 2>&1
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3-rarfile_4.1-r0_mips32el.ipk" > /tmp/python3-rarfile_4.1-r0_mips32el.ipk
+opkg install --force-depends /tmp/python3-rarfile_4.1-r0_mips32el.ipk
+sleep 2
+rm -f /tmp/python3-rarfile_4.1-r0_mips32el.ipk
+echo ""
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.12_mips32el-openvix-openbh.ipk" > /tmp/multi-stalkerpro-py3.12_mips32el-openvix-openbh.ipk
+opkg install --force-depends /tmp/multi-stalkerpro-py3.12_mips32el-openvix-openbh.ipk
+sleep 2
+rm -f /tmp/multi-stalkerpro-py3.12_mips32el-openvix-openbh.ipk
+echo ""
+echo ""
+if [ -e /tmp/MultiStalkerPro.json ]; then
+rm -f /etc/enigma2/MultiStalkerPro.json
+cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json
+fi
+echo ""
+elif (grep -qs -i "openbh" /etc/image-version); then
+opkg remove enigma2-plugin-extensions-multi-stalkerpro
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Converter/MultiStalkerAudioInfo* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServicePosition* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServiceResolution* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Renderer/MultiStalkerAudioIcon* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProRunningText* > /dev/null 2>&1
+rm -rf /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProStars* > /dev/null 2>&1
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3-rarfile_4.1-r0_mips32el.ipk" > /tmp/python3-rarfile_4.1-r0_mips32el.ipk
+opkg install --force-depends /tmp/python3-rarfile_4.1-r0_mips32el.ipk
+sleep 2
+rm -f /tmp/python3-rarfile_4.1-r0_mips32el.ipk
+echo ""
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.12_mips32el-openvix-openbh.ipk" > /tmp/multi-stalkerpro-py3.12_mips32el-openvix-openbh.ipk
+opkg install --force-depends /tmp/multi-stalkerpro-py3.12_mips32el-openvix-openbh.ipk
+sleep 2
+rm -f /tmp/multi-stalkerpro-py3.12_mips32el-openvix-openbh.ipk
+echo ""
+echo ""
+if [ -e /tmp/MultiStalkerPro.json ]; then
+rm -f /etc/enigma2/MultiStalkerPro.json
+cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json
+fi
+echo ""
+elif [ "$PYTHONL" = "PY3" ]; then
+if (grep -qs -i openpli /etc/issue); then
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerAudioIcon.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProStars.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProRunningText.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerAudioInfo.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServicePosition.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServiceResolution.* > /dev/null 2>&1
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3.9-rarfile_4.1-r0_mips32el.ipk" > /tmp/python3.9-rarfile_4.1-r0_mips32el.ipk
+opkg install --force-depends /tmp/python3.9-rarfile_4.1-r0_mips32el.ipk
+sleep 2
+rm -f /tmp/python3.9-rarfile_4.1-r0_mips32el.ipk
+echo ""
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3.9-levenshtein_0.12.0-r0_mips32el.ipk" > /tmp/python3.9-levenshtein_0.12.0-r0_mips32el.ipk
+opkg install --force-depends /tmp/python3.9-levenshtein_0.12.0-r0_mips32el.ipk
+sleep 2
+rm -f /tmp/python3.9-levenshtein_0.12.0-r0_mips32el.ipk
+echo ""
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3.9-fuzzywuzzy_0.18.0-r0_mips32el.ipk" > /tmp/python3.9-fuzzywuzzy_0.18.0-r0_mips32el.ipk
+opkg install --force-depends /tmp/python3.9-fuzzywuzzy_0.18.0-r0_mips32el.ipk
+sleep 2
+rm -f /tmp/python3.9-fuzzywuzzy_0.18.0-r0_mips32el.ipk
+echo ""
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro_mipsel-py3.9-openpli-develop.ipk" > /tmp/multi-stalkerpro_mipsel-py3.9-openpli-develop.ipk
+opkg install --force-depends /tmp/multi-stalkerpro_mipsel-py3.9-openpli-develop.ipk
+sleep 2
+rm -f /tmp/multi-stalkerpro_mipsel-py3.9-openpli-develop.ipk
+echo ""
+echo ""
+if [ -e /tmp/MultiStalkerPro.json ]; then
+rm -f /etc/enigma2/MultiStalkerPro.json
+cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json
+fi
+echo ""
+else
+echo ""
+sleep 4;
+fi
+fi
+elif grep -qs -i 'armv7l' cat $CHECK ; then
+echo "[ Your device is armv7l ]"
+if [ "$PYTHONLASTV" = "PY3" ]; then
+wget -q  "--no-check-certificate" https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.11_arm.tar.gz -O /tmp/multi-stalkerpro-py3.11_arm.tar.gz
+tar -xzf /tmp/multi-stalkerpro-py3.11_arm.tar.gz -C /
+sleep 2;
+rm -f /tmp/multi-stalkerpro-py3.11_arm.tar.gz
+elif [ "$PYTHONLASTER" = "PY3" ]; then
+opkg remove enigma2-plugin-extensions-multi-stalkerpro
+sleep 1
+if (grep -qs -i "openvix" /etc/image-version); then
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerAudioIcon.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProStars.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProRunningText.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerAudioInfo.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServicePosition.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServiceResolution.* > /dev/null 2>&1
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3-rarfile_4.1-r0_cortexa15hf-neon-vfpv4.ipk" > /tmp/python3-rarfile_4.1-r0_cortexa15hf-neon-vfpv4.ipk
+opkg install --force-depends /tmp/python3-rarfile_4.1-r0_cortexa15hf-neon-vfpv4.ipk
+sleep 2
+rm -f /tmp/python3-rarfile_4.1-r0_cortexa15hf-neon-vfpv4.ipk
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.12_arm-openvix-openbh.ipk" > /tmp/multi-stalkerpro-py3.12_arm-openvix-openbh.ipk
+opkg install --force-depends /tmp/multi-stalkerpro-py3.12_arm-openvix-openbh.ipk
+sleep 2
+rm -f /tmp/multi-stalkerpro-py3.12_arm-openvix-openbh.ipk
+echo ""
+echo ""
+if [ -e /tmp/MultiStalkerPro.json ]; then
+rm -f /etc/enigma2/MultiStalkerPro.json
+cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json
+fi
+echo ""
+elif (grep -qs -i "openbh" /etc/image-version); then
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerAudioIcon.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProStars.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProRunningText.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerAudioInfo.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServicePosition.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServiceResolution.* > /dev/null 2>&1
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3-rarfile_4.1-r0_cortexa15hf-neon-vfpv4.ipk" > /tmp/python3-rarfile_4.1-r0_cortexa15hf-neon-vfpv4.ipk
+opkg install --force-depends /tmp/python3-rarfile_4.1-r0_cortexa15hf-neon-vfpv4.ipk
+sleep 2
+rm -f /tmp/python3-rarfile_4.1-r0_cortexa15hf-neon-vfpv4.ipk
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.12_arm-openvix-openbh.ipk" > /tmp/multi-stalkerpro-py3.12_arm-openvix-openbh.ipk
+opkg install --force-depends /tmp/multi-stalkerpro-py3.12_arm-openvix-openbh.ipk
+sleep 2
+rm -f /tmp/multi-stalkerpro-py3.12_arm-openvix-openbh.ipk
+echo ""
+wget -O /etc/enigma2/MultiStalkerPro.json "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/MultiStalkerPro.json"
+echo ""
+else
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://github.com/emilnabil/multi-stalkerpro/raw/main/multi-stalkerpro-py3.12_arm.ipk" > /tmp/multi-stalkerpro-py3.12_arm.ipk
+sleep 1
+cd /tmp
+opkg install --force-depends multi-stalkerpro-py3.12_arm.ipk
+echo ""
+echo ""
+echo ""
+if [ -e /tmp/MultiStalkerPro.json ]; then
+rm -f /etc/enigma2/MultiStalkerPro.json
+cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json
+fi
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+sleep 1
+rm /tmp/multi-stalkerpro-py3.12_arm.ipk
+fi
+fi
+fi
+if [ "$PYTHONL" = "PY3" ]; then
+if (grep -qs -i openpli /etc/issue); then
+opkg remove enigma2-plugin-extensions-multi-stalkerpro
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerAudioIcon.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProStars.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProRunningText.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerAudioInfo.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServicePosition.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServiceResolution.* > /dev/null 2>&1
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3-rarfile_4.1-r0_armv7ahf-neon.ipk" > /tmp/python3-rarfile_4.1-r0_armv7ahf-neon.ipk
+opkg install --force-depends /tmp/python3-rarfile_4.1-r0_armv7ahf-neon.ipk
+sleep 2
+rm -f /tmp/python3-rarfile_4.1-r0_armv7ahf-neon.ipk
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3-levenshtein_0.12.0-r0_armv7ahf-neon.ipk" > /tmp/python3-levenshtein_0.12.0-r0_armv7ahf-neon.ipk
+opkg install --force-depends /tmp/python3-levenshtein_0.12.0-r0_armv7ahf-neon.ipk
+sleep 2
+rm -f /tmp/python3-levenshtein_0.12.0-r0_armv7ahf-neon.ipk
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3-fuzzywuzzy_0.18.0-r0_armv7ahf-neon.ipk" > /tmp/python3-fuzzywuzzy_0.18.0-r0_armv7ahf-neon.ipk
+opkg install --force-depends /tmp/python3-fuzzywuzzy_0.18.0-r0_armv7ahf-neon.ipk
+sleep 2
+rm -f /tmp/python3-fuzzywuzzy_0.18.0-r0_armv7ahf-neon.ipk
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro_openpli-develop.ipk" > /tmp/multi-stalkerpro_openpli-develop.ipk
+opkg install --force-depends /tmp/multi-stalkerpro_openpli-develop.ipk
+sleep 2
+rm -f /tmp/multi-stalkerpro_openpli-develop.ipk
+sleep 1;
+if [ -e /tmp/MultiStalkerPro.json ]; then
+rm -f /etc/enigma2/MultiStalkerPro.json
+cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json
+fi
+echo ""
+echo ""
+fi
+fi
+if [ "$PYTHON" = "PY2" ]; then
+wget -q  "--no-check-certificate" https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py2.7_arm.tar.gz -O /tmp/multi-stalkerpro-py2.7_arm.tar.gz
+sleep 1;
+tar -xzf /tmp/multi-stalkerpro-py2.7_arm.tar.gz -C /
+sleep 2;
+rm -f /tmp/multi-stalkerpro-py2.7_arm.tar.gz
+echo ""
+sleep 2;
+fi
+echo ""
+if grep -qs -i 'aarch64' cat $CHECK ; then
+echo "[ Your device is aarch64 ]"
+if [ "$PYTHONLASTER" = "PY3" ]; then
+opkg remove enigma2-plugin-extensions-multi-stalkerpro
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.12_aarch64.ipk" > /tmp/multi-stalkerpro-py3.12_aarch64.ipk
+opkg install --force-depends /tmp/multi-stalkerpro-py3.12_aarch64.ipk
+sleep 2
+rm -f /tmp/multi-stalkerpro-py3.12_aarch64.ipk
+echo ""
+if [ -e /tmp/MultiStalkerPro.json ]; then
+rm -f /etc/enigma2/MultiStalkerPro.json
+cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json
+fi
+echo ""
+elif (grep -qs -i "openvix" /etc/image-version); then
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerAudioIcon.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProStars.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProRunningText.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerAudioInfo.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServicePosition.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServiceResolution.* > /dev/null 2>&1
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3-rarfile_4.1-r0_aarch64.ipk" > /tmp/python3-rarfile_4.1-r0_aarch64.ipk
+opkg install --force-depends /tmp/python3-rarfile_4.1-r0_aarch64.ipk
+sleep 2
+rm -f /tmp/python3-rarfile_4.1-r0_aarch64.ipk
+echo ""
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.12-openvix-openbh_aarch64.ipk" > /tmp/multi-stalkerpro-py3.12-openvix-openbh_aarch64.ipk
+opkg install --force-depends /tmp/multi-stalkerpro-py3.12-openvix-openbh_aarch64.ipk
+sleep 2
+rm -f /tmp/multi-stalkerpro-py3.12-openvix-openbh_aarch64.ipk
+echo ""
+if [ -e /tmp/MultiStalkerPro.json ]; then
+rm -f /etc/enigma2/MultiStalkerPro.json
+cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json
+fi
+echo ""
+elif (grep -qs -i "openbh" /etc/image-version); then
+rm -rf /usr/lib/enigma2/python/Plugins/Extensions/MultiStalkerPro > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerAudioIcon.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProStars.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Renderer/MultiStalkerProRunningText.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerAudioInfo.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServicePosition.* > /dev/null 2>&1
+rm -f /usr/lib/enigma2/python/Components/Converter/MultiStalkerProServiceResolution.* > /dev/null 2>&1
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/python3-rarfile_4.1-r0_aarch64.ipk" > /tmp/python3-rarfile_4.1-r0_aarch64.ipk
+opkg install --force-depends /tmp/python3-rarfile_4.1-r0_aarch64.ipk
+sleep 2
+rm -f /tmp/python3-rarfile_4.1-r0_aarch64.ipk
+echo ""
+sleep 1;
+cd /tmp
+curl  -k -Lbk -m 55532 -m 555104 "https://raw.githubusercontent.com/emilnabil/multi-stalkerpro/main/multi-stalkerpro-py3.12-openvix-openbh_aarch64.ipk" > /tmp/multi-stalkerpro-py3.12-openvix-openbh_aarch64.ipk
+opkg install --force-depends /tmp/multi-stalkerpro-py3.12-openvix-openbh_aarch64.ipk
+sleep 2
+rm -f /tmp/multi-stalkerpro-py3.12-openvix-openbh_aarch64.ipk
+echo ""
+if [ -e /tmp/MultiStalkerPro.json ]; then
+rm -f /etc/enigma2/MultiStalkerPro.json
+cp -f /tmp/MultiStalkerPro.json /etc/enigma2/MultiStalkerPro.json
+fi
+echo ""
+else
+echo ""
+fi
+else
+echo ""
+sleep 2;
+fi
+echo ""
+echo "#########################################################"
+echo "**                                                                    *"
+echo "**                       multi-stalkerpro                     *"
+echo "**                                                                    *"
+echo "***********************************************************************"
+echo "   UPLOADED BY  >>>>   EMIL_NABIL "
+sleep 4
+
+exit 0
